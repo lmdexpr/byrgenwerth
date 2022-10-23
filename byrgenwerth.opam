@@ -9,7 +9,6 @@ bug-reports: "https://github.com/lmdexpr/byrgenwerth/issues"
 depends: [
   "ocaml"
   "ocamlformat"
-  "ocamlformat-rpc"
   "ocaml-lsp-server"
   "dune" {>= "3.3"}
   "dream"

@@ -19,7 +19,6 @@
  (depends
    ocaml
    ocamlformat
-   ocamlformat-rpc
    ocaml-lsp-server
    dune
    dream))
